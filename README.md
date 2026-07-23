@@ -28,8 +28,6 @@ I am developing practical portfolio projects that demonstrate structured trouble
 - BCS CISMP
 - CyberSafe (CBS-410)
 
-> Microsoft SC-900 is currently being verified and is not listed as confirmed.
-
 ---
 
 ## Featured Project
